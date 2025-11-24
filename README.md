@@ -6,8 +6,9 @@ Super Mall is a responsive e-commerce website designed to provide a seamless onl
 ---
 
 ## 📸 Demo / Live Link  
-🔗 **Live Preview:**    
-📂 **Repository Link:** 
+🔗 **Live Preview:** https://shubhvaghela45-hub.github.io/SuperMall_Website/
+📂 **Repository Link:** https://github.com/shubhvaghela45-hub/SuperMall_Website.git   
+
 
 ## 🔍⚙️Features
 
